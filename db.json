@@ -1,0 +1,704 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "movie": "The Shawshank Redemption",
+      "rating": 9.3,
+      "image": "images/shawshank.jpg",
+      "genre": "Drama"
+    },
+    {
+      "id": 2,
+      "movie": "The Godfather",
+      "rating": 9.2,
+      "image": "images/godfather.jpg",
+      "genre": "Crime, Drama"
+    },
+    {
+      "id": 3,
+      "movie": "The Dark Knight",
+      "rating": 9,
+      "image": "images/dark_knight.jpg",
+      "genre": "Action, Crime, Drama, Thriller"
+    },
+    {
+      "id": 4,
+      "movie": "Pulp Fiction",
+      "rating": 8.9,
+      "image": "images/pulp.jpg",
+      "genre": "Crime, Drama"
+    },
+    {
+      "id": 5,
+      "movie": "The Lord of the Rings: The Return of the King",
+      "rating": 9,
+      "image": "images/tlotr.jpeg",
+      "genre": "Action, Adventure, Drama, Fantasy"
+    },
+    {
+      "id": 6,
+      "movie": "The Good, the Bad and the Ugly",
+      "rating": 8.8,
+      "image": "images/the_good_the_bad_and_the_ugly.jpg",
+      "genre": "Adventure, Drama, Western"
+    },
+    {
+      "id": 7,
+      "movie": "Fight Club",
+      "rating": 8.8,
+      "image": "images/fight_club.jpeg",
+      "genre": "Drama"
+    },
+    {
+      "id": 8,
+      "movie": "The Lord of the Rings: Fellowship of the Ring",
+      "rating": 8.8,
+      "image": "images/fellowship.jpg",
+      "genre": "Action, Adventure, Drama, Fantasy"
+    },
+    {
+      "id": 9,
+      "movie": "Forrest Gump",
+      "rating": 8.8,
+      "image": "images/forrest_gumb.jpeg",
+      "genre": "Drama, Romance"
+    },
+    {
+      "id": 10,
+      "movie": "Inception",
+      "rating": 8.8,
+      "image": "images/inception.jpg",
+      "genre": "Action, Adventure, Sci-Fi, Thriller"
+    },
+    {
+      "id": 11,
+      "movie": "Interstellar",
+      "rating": 8.7,
+      "image": "images/interstellar.jpg",
+      "genre": "Adventure, Drama, Sci-Fi"
+    },
+    {
+      "id": 12,
+      "movie": "The Matrix",
+      "rating": 8.7,
+      "image": "images/the_matrix.jpg",
+      "genre": "Action, Sci-Fi"
+    },
+    {
+      "id": 13,
+      "movie": "Schindler's List",
+      "rating": 9,
+      "image": "images/Schindler's_List.jpg",
+      "genre": "Biography, Drama, History"
+    },
+    {
+      "id": 14,
+      "movie": "The Silence of the Lambs",
+      "rating": 8.6,
+      "image": "images/The_Silence_of_the_Lambs.jpg",
+      "genre": "Crime, Drama, Thriller"
+    },
+    {
+      "id": 15,
+      "movie": "Star Wars: Episode V - The Empire Strikes Back",
+      "rating": 8.7,
+      "image": "images/star_war_episode_5.jpg",
+      "genre": "Action, Adventure, Fantasy, Sci-Fi"
+    },
+    {
+      "id": 16,
+      "movie": "Saving Private Ryan",
+      "rating": 8.6,
+      "image": "images/saving_private_ryan.jpg",
+      "genre": "Drama, War"
+    },
+    {
+      "id": 17,
+      "movie": "Parasite",
+      "rating": 8.5,
+      "image": "images/parasite.jpg",
+      "genre": "Drama, Thriller"
+    },
+    {
+      "id": 18,
+      "movie": "Gladiator",
+      "rating": 8.5,
+      "image": "images/gladiator.jpg",
+      "genre": "Action, Adventure"
+    },
+    {
+      "id": 19,
+      "movie": "Jurassic Park",
+      "rating": 8.1,
+      "image": "images/jurassic_park.jpg",
+      "genre": "Action, Adventure, Sci-Fi, Thriller"
+    },
+    {
+      "id": 20,
+      "movie": "The Lion King",
+      "rating": 6.8,
+      "image": "images/The_Lion_King.jpg",
+      "genre": "Animation, Adventure, Drama, Family, Fantasy, Musical"
+    },
+    {
+      "id": 21,
+      "movie": "Blade Runner 2049",
+      "rating": 8,
+      "image": "images/blade_runner_2049.jpg",
+      "genre": "Action, Drama, Sci-Fi, Mystery"
+    },
+    {
+      "id": 22,
+      "movie": "The Prestige",
+      "rating": 8.5,
+      "image": "images/prestige.jpg",
+      "genre": "Drama, Mystery, Sci-Fi, Thriller"
+    },
+    {
+      "id": 23,
+      "movie": "Mad Max: Fury Road",
+      "rating": 8.1,
+      "image": "images/Mad-Max-Fury-Road-2015",
+      "genre": "Action, Adventure, Sci-Fi, Thriller"
+    },
+    {
+      "id": 24,
+      "movie": "The Departed",
+      "rating": 8.5,
+      "image": "images/the_departed.jpg",
+      "genre": "Crime, Drama, Thriller"
+    },
+    {
+      "id": 25,
+      "movie": "Whiplash",
+      "rating": 8.5,
+      "image": "images/whiplash.jpg",
+      "genre": "Drama, Music"
+    },
+    {
+      "id": 26,
+      "movie": "Inglourious Basterds",
+      "rating": 8.4,
+      "image": "images/inglourious_basterds.jpg",
+      "genre": "Adventure, Drama, War"
+    },
+    {
+      "id": 27,
+      "movie": "Alien",
+      "rating": 8.5,
+      "image": "images/alien.jpg",
+      "genre": "Horror, Sci-Fi"
+    },
+    {
+      "id": 28,
+      "movie": "Amélie",
+      "rating": 8.3,
+      "image": "images/Amélie.jpg",
+      "genre": "Comedy, Romance"
+    },
+    {
+      "id": 29,
+      "movie": "Eternal Sunshine of the Spotless Mind",
+      "rating": 8.3,
+      "image": "images/Eternal_Sunshine_of_the_Spotless_Mind.jpg",
+      "genre": "Drama, Romance, Sci-Fi"
+    },
+    {
+      "id": 30,
+      "movie": "Requiem for a Dream",
+      "rating": 8.3,
+      "image": "images/requiem_for_a_dream.jpg",
+      "genre": "Drama"
+    },
+    {
+      "id": 31,
+      "movie": "Pan's Labyrinth",
+      "rating": 8.2,
+      "image": "images/Pan's_Labyrinth.jpg",
+      "genre": "Drama, Fantasy, War"
+    },
+    {
+      "id": 32,
+      "movie": "Her",
+      "rating": 8,
+      "image": "images/her.jpg",
+      "genre": "Drama, Romance, Sci-Fi"
+    },
+    {
+      "id": 33,
+      "movie": "A Clockwork Orange",
+      "rating": 8.2,
+      "image": "images/clockworkorange.jpg",
+      "genre": "Crime, Sci-Fi"
+    },
+    {
+      "id": 34,
+      "movie": "The Grand Budapest Hotel",
+      "rating": 8.1,
+      "image": "images/grand-budapest-hotel.jpg",
+      "genre": "Adventure, Comedy, Crime"
+    },
+    {
+      "id": 35,
+      "movie": "The Shining",
+      "rating": 8.4,
+      "image": "images/the_shining.jpg",
+      "genre": "Drama, Horror"
+    },
+    {
+      "id": 36,
+      "movie": "Apocalypse Now",
+      "rating": 8.4,
+      "image": "images/apocalypse_now.jpg",
+      "genre": "Drama, Mystery, War"
+    },
+    {
+      "id": 37,
+      "movie": "Aliens",
+      "rating": 8.4,
+      "image": "images/aliens.jpg",
+      "genre": "Action, Adventure, Sci-Fi, Thriller"
+    },
+    {
+      "id": 38,
+      "movie": "Taxi Driver",
+      "rating": 8.2,
+      "image": "images/taxi_driver.jpg",
+      "genre": "Crime, Drama"
+    },
+    {
+      "id": 39,
+      "movie": "No Country for Old Men",
+      "rating": 8.2,
+      "image": "images/no_country_for_old_men.jpg",
+      "genre": "Crime, Drama, Thriller"
+    },
+    {
+      "id": 40,
+      "movie": "Venom",
+      "rating": 6.6,
+      "image": "images/venom.jpg",
+      "genre": "Action, Adventure, Sci-Fi"
+    },
+    {
+      "id": 41,
+      "movie": "Drive",
+      "rating": 7.8,
+      "image": "images/drive.jpg",
+      "genre": "Action, Drama"
+    },
+    {
+      "id": 42,
+      "movie": "La La Land",
+      "rating": 8,
+      "image": "images/la_la_land.jpg",
+      "genre": "Comedy, Drama, Music, Musical"
+    },
+    {
+      "id": 43,
+      "movie": "Moonlight",
+      "rating": 7.4,
+      "image": "images/moonlight.jpg",
+      "genre": "Drama"
+    },
+    {
+      "id": 44,
+      "movie": "The Social Network",
+      "rating": 7.8,
+      "image": "images/the_social_network.jpg",
+      "genre": "Biography, Drama"
+    },
+    {
+      "id": 45,
+      "movie": "Joker",
+      "rating": 8.4,
+      "image": "images/joker.jpg",
+      "genre": "Crime, Drama, Thriller"
+    },
+    {
+      "id": 46,
+      "movie": "Avengers: Infinity War",
+      "rating": 8.4,
+      "image": "images/avengers_infinity_war.jpg",
+      "genre": "Action, Adventure, Sci-Fi"
+    },
+    {
+      "id": 47,
+      "movie": "Guardians of the Galaxy",
+      "rating": 8,
+      "image": "images/Guardians_of-the_Galaxy.jpg",
+      "genre": "Action, Adventure, Sci-Fi, Comedy"
+    },
+    {
+      "id": 48,
+      "movie": "Dunkirk",
+      "rating": 7.8,
+      "image": "images/dunkirk.jpg",
+      "genre": "Action, Drama, History, Thriller"
+    },
+    {
+      "id": 49,
+      "movie": "The Imitation Game",
+      "rating": 8,
+      "image": "images/the_imitation_game.jpg",
+      "genre": "Biography, Drama, Thriller, War"
+    },
+    {
+      "id": 50,
+      "movie": "Venom: Let There Be Carnage",
+      "rating": 5.9,
+      "image": "images/venom_2.jpg",
+      "genre": "Action, Sci-Fi, Thriller"
+    },
+    {
+      "id": 51,
+      "movie": "Spider-Man",
+      "rating": 7.4,
+      "image": "images/spider-man.jpg",
+      "genre": "Action, Adventure, Sci-Fi"
+    },
+    {
+      "id": 52,
+      "movie": "Spotlight",
+      "rating": 8.1,
+      "image": "images/spotlight.jpg",
+      "genre": "Biography, Crime, Drama"
+    },
+    {
+      "id": 53,
+      "movie": "Room",
+      "rating": 8.1,
+      "image": "images/room.jpg",
+      "genre": "Drama, Thriller"
+    },
+    {
+      "id": 54,
+      "movie": "The Revenant",
+      "rating": 8,
+      "image": "images/The_Revenant_2015.jpg",
+      "genre": "Action, Adventure, Drama, Western"
+    },
+    {
+      "id": 55,
+      "movie": "Brooklyn",
+      "rating": 7.5,
+      "image": "images/brooklyn.jpg",
+      "genre": "Drama, Romance"
+    },
+    {
+      "id": 56,
+      "movie": "The Big Short",
+      "rating": 7.8,
+      "image": "images/the_big_short.jpg",
+      "genre": "Biography, Comedy, Drama, History"
+    },
+    {
+      "id": 57,
+      "movie": "Hell or High Water",
+      "rating": 7.6,
+      "image": "images/hell-or-high-water.webp",
+      "genre": "Crime, Drama, Thriller, Western"
+    },
+    {
+      "id": 58,
+      "movie": "Manchester by the Sea",
+      "rating": 7.8,
+      "image": "images/manchester_by_the_sea.jpg",
+      "genre": "Drama"
+    },
+    {
+      "id": 59,
+      "movie": "Hacksaw Ridge",
+      "rating": 8.1,
+      "image": "images/hacksaw_ridge.jpg",
+      "genre": "Biography, Drama, History, War"
+    },
+    {
+      "id": 60,
+      "movie": "Lion",
+      "rating": 8,
+      "image": "images/lion.jpg",
+      "genre": "Biography, Drama"
+    },
+    {
+      "id": 61,
+      "movie": "Arrival",
+      "rating": 7.9,
+      "image": "images/arrival.jpg",
+      "genre": "Drama, Mystery, Sci-Fi"
+    },
+    {
+      "id": 62,
+      "movie": "Clash of the Titans 2010",
+      "rating": 5.8,
+      "image": "images/Clash_of_the_Titans_2010.jpg",
+      "genre": "Action, Adventure, Fantasy"
+    },
+    {
+      "id": 63,
+      "movie": "Hercules 2014",
+      "rating": 6,
+      "image": "images/hercules.jpg",
+      "genre": "Action, Adventure, Fantasy"
+    },
+    {
+      "id": 64,
+      "movie": "Hidden Figures",
+      "rating": 7.8,
+      "image": "images/hidden_figures.jpg",
+      "genre": "Biography, Drama, History"
+    },
+    {
+      "id": 65,
+      "movie": "Fences",
+      "rating": 7.2,
+      "image": "images/fences.jpg",
+      "genre": "Drama"
+    },
+    {
+      "id": 66,
+      "movie": "Zootopia",
+      "rating": 8,
+      "image": "images/zootopia.jpg",
+      "genre": "Animation, Action, Adventure, Comedy"
+    },
+    {
+      "id": 67,
+      "movie": "Moana",
+      "rating": 7.6,
+      "image": "images/moana.jpg",
+      "genre": "Adventure, Fantasy, Musical, Animation, Comedy, Family"
+    },
+    {
+      "id": 68,
+      "movie": "Trolls",
+      "rating": 6.4,
+      "image": "images/trolls.jpg",
+      "genre": "Animation, Comedy, Romance, Fantasy, Family, Musical, Adventure"
+    },
+    {
+      "id": 69,
+      "movie": "Finding Dory",
+      "rating": 7.3,
+      "image": "images/Finding_Dory",
+      "genre": "Family, Adventure, Fantasy, Animation, Comedy"
+    },
+    {
+      "id": 70,
+      "movie": "The Jungle Book 2016",
+      "rating": 7.4,
+      "image": "images/the_jungle_book.jpg",
+      "genre": "Fantasy, Action, Animation, Adventure, Drama, Family, Musical"
+    },
+    {
+      "id": 71,
+      "movie": "Kubo and the Two Strings",
+      "rating": 7.8,
+      "image": "images/kubo_and_the_two_strings.jpg",
+      "genre": "Animation, Fantasy, Adventure, Action, Family"
+    },
+    {
+      "id": 72,
+      "movie": "Sing",
+      "rating": 7.1,
+      "image": "images/Sing",
+      "genre": "Comedy, Family, Animation, Musical"
+    },
+    {
+      "id": 73,
+      "movie": "The Secret Life of Pets",
+      "rating": 6.5,
+      "image": "images/the_secret_life_of_pets.jpg",
+      "genre": "Family, Adventure, Comedy, Animation"
+    },
+    {
+      "id": 74,
+      "movie": "Fantastic Beasts and Where to Find Them",
+      "rating": 7.2,
+      "image": "images/FantasticBeastsAndWhereToFindThem.jpg",
+      "genre": "Adventure, Fantasy, Family"
+    },
+    {
+      "id": 75,
+      "movie": "Doctor Strange",
+      "rating": 7.5,
+      "image": "images/doctor-strange-2016.jpg",
+      "genre": "Adventure, Sci-Fi, Fantasy, Action"
+    },
+    {
+      "id": 76,
+      "movie": "Rogue One: A Star Wars Story",
+      "rating": 7.8,
+      "image": "images/Rogue_One_A_Star_Wars_Story.jpg",
+      "genre": "Action, Adventure, Sci-Fi"
+    },
+    {
+      "id": 77,
+      "movie": "Logan",
+      "rating": 8.1,
+      "image": "images/logan.jpg",
+      "genre": "Sci-Fi, Thriller, Action, Drama"
+    },
+    {
+      "id": 78,
+      "movie": "Wonder Woman",
+      "rating": 7.3,
+      "image": "images/wonder_woman.jpg",
+      "genre": "Sci-Fi, War, Fantasy, Action, Adventure"
+    },
+    {
+      "id": 79,
+      "movie": "Guardians of the Galaxy Vol. 2",
+      "rating": 7.6,
+      "image": "images/guardians-of-the-galaxy_vol_2",
+      "genre": "Adventure, Action, Comedy, Sci-Fi"
+    },
+    {
+      "id": 80,
+      "movie": "Spider-Man: Homecoming",
+      "rating": 7.4,
+      "image": "images/spider-man_homecoming.jpg",
+      "genre": "Adventure, Action, Sci-Fi"
+    },
+    {
+      "id": 81,
+      "movie": "Thor: Ragnarok",
+      "rating": 7.9,
+      "image": "images/thor-ragnarok.jpg",
+      "genre": "Sci-Fi, Action, Comedy, Fantasy, Adventure"
+    },
+    {
+      "id": 82,
+      "movie": "Black Panther",
+      "rating": 7.3,
+      "image": "images/black-panther.jpg",
+      "genre": "Adventure, Action, Sci-Fi"
+    },
+    {
+      "id": 83,
+      "movie": "Avengers: Endgame",
+      "rating": 8.4,
+      "image": "images/avengers_endgame.jpg",
+      "genre": "Sci-Fi, Action, Drama, Adventure"
+    },
+    {
+      "id": 84,
+      "movie": "Jumanji: Welcome to the Jungle",
+      "rating": 6.9,
+      "image": "images/jumanji_welcome_to_the_jungle.jpg",
+      "genre": "Action, Adventure, Fantasy, Comedy"
+    },
+    {
+      "id": 85,
+      "movie": "Deadpool 2",
+      "rating": 7.6,
+      "image": "images/deadpool_2.jpg",
+      "genre": "Action, Comedy, Adventure, Sci-Fi"
+    },
+    {
+      "id": 86,
+      "movie": "The Incredibles 2",
+      "rating": 7.5,
+      "image": "images/The_Incredibles_2.jpeg",
+      "genre": "Animation, Action, Adventure, Comedy, Family, Sci-Fi"
+    },
+    {
+      "id": 87,
+      "movie": "Coco",
+      "rating": 8.4,
+      "image": "images/coco.jpg",
+      "genre": "Mystery, Music, Drama, Adventure, Fantasy, Family"
+    },
+    {
+      "id": 88,
+      "movie": "Toy Story 4",
+      "rating": 7.6,
+      "image": "images/Toy_Story_4",
+      "genre": "Adventure, Animation, Fantasy, Family, Comedy"
+    },
+    {
+      "id": 89,
+      "movie": "Venom: The Last Dance",
+      "rating": 6.2,
+      "image": "images/venom_3.jpg",
+      "genre": "Action, Adventure, Sci-Fi, Thriller"
+    },
+    {
+      "id": 90,
+      "movie": "Frozen II",
+      "rating": 6.9,
+      "image": "images/Frozen_II.jpg",
+      "genre": "Animation, Adventure, Comedy, Drama, Family, Fantasy, Musical"
+    },
+    {
+      "id": 91,
+      "movie": "Knives Out",
+      "rating": 7.9,
+      "image": "images/knives_out.jpg",
+      "genre": "Comedy, Mystery, Crime, Thriller, Drama"
+    },
+    {
+      "id": 92,
+      "movie": "Once Upon a Time in Hollywood",
+      "rating": 7.6,
+      "image": "images/once-upon-a-time-in-hollywood.jpg",
+      "genre": "Comedy, Drama"
+    },
+    {
+      "id": 93,
+      "movie": "1917",
+      "rating": 8.2,
+      "image": "images/1917.jpg",
+      "genre": "War, Action, History, Drama"
+    },
+    {
+      "id": 94,
+      "movie": "Jojo Rabbit",
+      "rating": 7.9,
+      "image": "images/jojo_rabbit.jpg",
+      "imdb_url": "Drama, War, Comedy"
+    },
+    {
+      "id": 95,
+      "movie": "Iron Man 2008",
+      "rating": 7.9,
+      "image": "images/iron-man-1.jpg",
+      "genre": "Sci-Fi, Adventure, Action"
+    },
+    {
+      "id": 96,
+      "movie": "The Incredible Hulk 2003",
+      "rating": 5.6,
+      "image": "images/incredible_hulk.jpg",
+      "genre": "Action, Sci-Fi"
+    },
+    {
+      "id": 97,
+      "movie": "Little Women",
+      "rating": 7.8,
+      "image": "images/little_women.jpg",
+      "genre": "Drama, Romance"
+    },
+    {
+      "id": 98,
+      "movie": "Ford v Ferrari",
+      "rating": 8.1,
+      "image": "images/ford_v_ferrari.jpg",
+      "genre": "Sport, Action, Drama, Biography"
+    },
+    {
+      "id": 99,
+      "movie": "The Irishman",
+      "rating": 7.8,
+      "image": "images/the-irishman.avif",
+      "genre": "Drama, Crime, Biography"
+    },
+    {
+      "id": 100,
+      "movie": "Marriage Story",
+      "rating": 7.9,
+      "image": "images/marriage_story.jpg",
+      "genre": "Drama, Romance"
+    }
+  ]
+}
