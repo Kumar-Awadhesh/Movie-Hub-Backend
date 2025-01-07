@@ -1,8 +1,10 @@
 const express = require("express");
 const fs = require("fs");
+const cors = require("cors")
 const app = express();
 
 app.use(express.json());
+app.use(cors())
 
 app.get("/movies", (req, res) =>{
     fs.readFile("./db.json", "utf-8", (err, data) =>{
@@ -55,8 +57,6 @@ app.delete("/movies/:id", (req, res) => {
         let movieId = parseInt(req.params.id); // Parse the ID from the URL
         let data = fs.readFileSync("./db.json", "utf-8");
         let parsdata = JSON.parse(data);
-
-        console.log("Parsed data:", parsdata);
 
         // Check if 'movies' exists and is an array
         if (!Array.isArray(parsdata.movies)) {
