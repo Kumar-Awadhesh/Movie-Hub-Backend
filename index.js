@@ -1,19 +1,42 @@
 const express = require("express");
 const fs = require("fs");
 const cors = require("cors")
+const path = require("path")
 const app = express();
 
 app.use(express.json());
 app.use(cors())
+app.use("/images", express.static(path.join(__dirname, "images")));
 
 app.get("/movies", (req, res) =>{
+
+    const page = parseInt(req.query._page) || 1; 
+    const perPage = parseInt(req.query._perPage) || 12;
+
     fs.readFile("./db.json", "utf-8", (err, data) =>{
         if(err){
             res.status(404).send("somthing went wrong", err);
         }
         else{
             let parsdata = JSON.parse(data);
-            res.send(parsdata);
+           
+            const totalMovie = parsdata.movies.length;
+
+            if(!req.query._page || !req.query._perPage){
+                return res.json({
+                    Movies: parsdata.movies,
+                    TotalMovies: totalMovie,
+                })
+            }
+
+            const startIndex = (page - 1) * perPage;
+            const endIndex = startIndex + perPage;
+            const paginatedMovies = parsdata.movies.slice(startIndex, endIndex);
+
+            res.json({
+                Movies: paginatedMovies,
+                TotalMovies: totalMovie,
+            })
         }
     });
 
@@ -40,7 +63,7 @@ app.put("/movies/:id", (req, res) =>{
         const movieIndex = parsdata.movies.findIndex(movie => movie.id === movieId);
 
         if(movieIndex === -1){
-            res.status(404).send("error: User not found!")
+            res.status(404).send("error: not found!")
         }
 
         parsdata.movies[movieIndex] = {...parsdata.movies[movieIndex], ...req.body};
@@ -87,7 +110,7 @@ app.delete("/movies/:id", (req, res) => {
 });
 
 app.use((req, res) =>{
-    res.status(404).send("404: user not found");
+    res.status(404).send("404: not found");
 })
 
 app.listen(3300, () =>{
