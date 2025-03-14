@@ -57,7 +57,10 @@ app.put("/movies/:id", (req, res) =>{
         let parsdata = JSON.parse(data);
 
         if (!Array.isArray(parsdata.movies)) {
-            return res.status(500).send({ error: "Movies array not found", details: "The 'movies' array is missing or invalid in db.json" });
+            return res.status(500).send({ 
+                error: "Movies array not found", 
+                details: "The 'movies' array is missing or invalid in db.json" 
+            });
         }
 
         const movieIndex = parsdata.movies.findIndex(movie => movie.id === movieId);

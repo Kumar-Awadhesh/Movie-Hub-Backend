@@ -1,6 +1,109 @@
 {
   "movies": [
     {
+      "id": 113,
+      "movie": "Captain America: Brave New World",
+      "rating": 6,
+      "released": 2025,
+      "image": "/images/captain_america_4.jpg"
+    },
+    {
+      "id": 101,
+      "movie": "Kraven The Hunter",
+      "rating": 5.4,
+      "released": 2024,
+      "image": "/images/Kraven_the_Hunter.jpg",
+      "genre": "Action, Thriller"
+    },
+    {
+      "id": 102,
+      "movie": "Red One",
+      "rating": 6.3,
+      "released": 2024,
+      "image": "/images/red_one.jpg",
+      "genre": "Action, Adventure"
+    },
+    {
+      "id": 103,
+      "movie": "Transformer One",
+      "rating": 7.6,
+      "released": 2024,
+      "image": "/images/transformer_one.jpg",
+      "genre": "Action, Animation"
+    },
+    {
+      "id": 104,
+      "movie": "Alien: Romulus",
+      "rating": 7.1,
+      "released": 2024,
+      "image": "/images/alien_romulus.jpg",
+      "genre": "Horror, Sci-Fi"
+    },
+    {
+      "id": 105,
+      "movie": "Hellboy: The Crooked Man",
+      "rating": 4.5,
+      "released": 2024,
+      "image": "/images/hellboy_the_krookedman.jpg",
+      "genre": "Action, Horror"
+    },
+    {
+      "id": 106,
+      "movie": "Moana 2",
+      "rating": 7,
+      "released": 2024,
+      "image": "/images/moana_2.jpg",
+      "genre": "Animation, Adventure"
+    },
+    {
+      "id": 107,
+      "movie": "Gladiator 2",
+      "rating": 6.6,
+      "released": 2024,
+      "image": "/images/Gladiator_2.jpg",
+      "genre": "Action, Adventure"
+    },
+    {
+      "id": 108,
+      "movie": "Deadpool & Wolverine",
+      "rating": 7.6,
+      "released": 2024,
+      "image": "/images/deadpool_&_wolverine.jpg",
+      "genre": "Action, Adventure"
+    },
+    {
+      "id": 109,
+      "movie": "The Wild Robot",
+      "rating": 8.2,
+      "released": 2024,
+      "image": "/images/the_wild_robot.jpg",
+      "genre": "Animation Sci-Fi"
+    },
+    {
+      "id": 110,
+      "movie": "Mufasa: The Lion King",
+      "rating": 6.7,
+      "released": 2024,
+      "image": "/images/mufasa_the_lion_king.jpg",
+      "genre": "Animation, Adventure"
+    },
+    {
+      "id": 89,
+      "movie": "Venom: The Last Dance",
+      "rating": 6.2,
+      "released": 2024,
+      "image": "/images/venom_3.jpg",
+      "genre": "Action, Adventure, Sci-Fi, Thriller"
+    },
+    {
+      "id": 112,
+      "movie": "Godzilla x Kong: The New Empire",
+      "rating": 6.1,
+      "released": 2024,
+      "image": "/images/godzilla_x_kong.jpg",
+      "genre": "Action, Adventure"
+    },
+    {
       "id": 1,
       "movie": "The Shawshank Redemption",
       "rating": 9.3,
@@ -403,7 +506,7 @@
       "id": 58,
       "movie": "Manchester by the Sea",
       "rating": 7.8,
-      "image": "/mages/Manchester_by_the_Sea.jpg",
+      "image": "/images/Manchester_by_the_Sea.jpg",
       "genre": "Drama"
     },
     {
@@ -615,13 +718,6 @@
       "rating": 7.6,
       "image": "/images/Toy_Story_4",
       "genre": "Adventure, Animation, Fantasy, Family, Comedy"
-    },
-    {
-      "id": 89,
-      "movie": "Venom: The Last Dance",
-      "rating": 6.2,
-      "image": "/images/venom_3.jpg",
-      "genre": "Action, Adventure, Sci-Fi, Thriller"
     },
     {
       "id": 90,
