@@ -5,7 +5,8 @@
       "movie": "Captain America: Brave New World",
       "rating": 6,
       "released": 2025,
-      "image": "/images/captain_america_4.jpg"
+      "image": "/images/captain_america_4.jpg",
+      "genre": "Action, Adventure, Sci-Fi"
     },
     {
       "id": 101,
@@ -44,7 +45,7 @@
       "movie": "Hellboy: The Crooked Man",
       "rating": 4.5,
       "released": 2024,
-      "image": "/images/hellboy_the_krookedman.jpg",
+      "image": "/images/hellboy_the_krookedman.jpeg",
       "genre": "Action, Horror"
     },
     {
@@ -52,7 +53,7 @@
       "movie": "Moana 2",
       "rating": 7,
       "released": 2024,
-      "image": "/images/moana_2.jpg",
+      "image": "/images/moana-2.jpg",
       "genre": "Animation, Adventure"
     },
     {
@@ -102,6 +103,62 @@
       "released": 2024,
       "image": "/images/godzilla_x_kong.jpg",
       "genre": "Action, Adventure"
+    },
+    {
+      "id": 120,
+      "movie": "Avatar: The Way of Water",
+      "rating": 7.5,
+      "released": 2022,
+      "image": "/images/avatar-2.webp",
+      "genre": "Action, Adventure, Fantasy, Sci-Fi"
+    },
+    {
+      "id": 114,
+      "movie": "Batman v Superman: Dawn of Justice",
+      "rating": 6.5,
+      "released": 2016,
+      "image": "/images/batman-vs-superman.jpg",
+      "genre": "Action, Adventure, Sci-Fi"
+    },
+    {
+      "id": 115,
+      "movie": "Iron Man 3",
+      "rating": 7.1,
+      "released": 2013,
+      "image": "/images/iron-man-3.jpg",
+      "genre": "Action, Adventure, Sci-Fi"
+    },
+    {
+      "id": 116,
+      "movie": "Captain America: Civil War",
+      "rating": 7.8,
+      "released": 2016,
+      "image": "/images/civil-war.jpg",
+      "genre": "Action, Sci-Fi"
+    },
+    {
+      "id": 117,
+      "movie": "Justice League",
+      "rating": 6,
+      "released": 2017,
+      "image": "/images/justice-league.jpg",
+      "genre": "Action, Adventure, Fantasy, Sci-Fi"
+    },
+    {
+      "id": 118,
+      "movie": "Man of Steel",
+      "rating": 7.1,
+      "released": 2013,
+      "image": "/images/Man-Of-Steel.jpg",
+      "genre": "Action, Adventure, Sci-Fi"
+    },
+    {
+      "id": 119,
+      "movie": "Hellboy",
+      "rating": 5.3,
+      "released": 2019,
+      "image": "/images/hellboy.jpg",
+      "genre":"Action, Adventure, Fantasy, Sci-Fi, Horror"
     },
     {
       "id": 1,
