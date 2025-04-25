@@ -3,7 +3,7 @@
     
     {
       "id": 122,
-      "movie": "Peter Pan’s Neverland Nightmare",
+      "movie": "/images/Peter Pan’s Neverland Nightmare",
       "rating": 5.1,
       "released": 2025,
       "image": "peter-pan.webp",
@@ -14,7 +14,7 @@
       "movie": "Ash",
       "rating": 5.1,
       "released": 2025,
-      "image": "ash.jpg",
+      "image": "/images/ash.jpg",
       "genre": "Horror, Sci-Fi"
     },
     {
