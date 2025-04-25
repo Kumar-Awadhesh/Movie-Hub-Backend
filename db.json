@@ -1,5 +1,22 @@
 {
   "movies": [
+    
+    {
+      "id": 122,
+      "movie": "Peter Pan’s Neverland Nightmare",
+      "rating": 5.1,
+      "released": 2025,
+      "image": "",
+      "genre": "Adventure, Fantasy, Horror"
+    },
+    {
+      "id": 121,
+      "movie": "Ash",
+      "rating": 5.1,
+      "released": 2025,
+      "image": "",
+      "genre": "Horror, Sci-Fi"
+    },
     {
       "id": 113,
       "movie": "Captain America: Brave New World",
@@ -111,6 +128,14 @@
       "released": 2022,
       "image": "/images/avatar-2.webp",
       "genre": "Action, Adventure, Fantasy, Sci-Fi"
+    },
+    {
+      "id": 123,
+      "movie": "Bullet Train",
+      "rating": 7.4,
+      "released": 2022,
+      "image": "",
+      "genre": "Action, Comedy, Thriller"
     },
     {
       "id": 114,
