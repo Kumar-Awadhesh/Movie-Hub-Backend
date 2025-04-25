@@ -6,7 +6,7 @@
       "movie": "Peter Pan’s Neverland Nightmare",
       "rating": 5.1,
       "released": 2025,
-      "image": "",
+      "image": "peter-pan.webp",
       "genre": "Adventure, Fantasy, Horror"
     },
     {
@@ -14,7 +14,7 @@
       "movie": "Ash",
       "rating": 5.1,
       "released": 2025,
-      "image": "",
+      "image": "ash.jpg",
       "genre": "Horror, Sci-Fi"
     },
     {
@@ -134,7 +134,7 @@
       "movie": "Bullet Train",
       "rating": 7.4,
       "released": 2022,
-      "image": "",
+      "image": "/images/bullet-train.jpg",
       "genre": "Action, Comedy, Thriller"
     },
     {
