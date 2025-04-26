@@ -3,10 +3,10 @@
     
     {
       "id": 122,
-      "movie": "/images/Peter Pan’s Neverland Nightmare",
+      "movie": "Peter Pan’s Neverland Nightmare",
       "rating": 5.1,
       "released": 2025,
-      "image": "peter-pan.webp",
+      "image": "/images/peter-pan.webp",
       "genre": "Adventure, Fantasy, Horror"
     },
     {
