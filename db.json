@@ -1,6 +1,21 @@
 {
   "movies": [
-    
+    {
+      "id": 125,
+      "movie": "Warlord",
+      "rating": 3.7,
+      "released": 2025,
+      "image": "/images/warlod.jpg",
+      "genre": "Action, Adventure, Fantasy"
+    },
+    {
+      "id": 124,
+      "movie": "Havoc",
+      "rating": 6.9,
+      "released": 2025,
+      "image": "/images/havoc.jpg",
+      "genre": "Action, Crime, Thriller"
+    },
     {
       "id": 122,
       "movie": "Peter Pan’s Neverland Nightmare",
